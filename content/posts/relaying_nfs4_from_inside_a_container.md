@@ -102,5 +102,7 @@ This is what I see from the NFS host:
 
 Before relaying the connection with `socat` I tried all `nmap` scripts, but
 found out that they work only for NFS 3 and lower, as they make use of the
-`rpcbind` service. I found no tool/guide to gather information regarding NFS 4
-shares, so I decided to write this mini guide.
+`rpcbind` service.
+
+I found no tool/guide to gather information regarding NFS 4 shares, so I decided
+to write this mini guide.
