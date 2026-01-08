@@ -1,3 +1,6 @@
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt
+[submodule "themes/researcher"]
+	path = themes/researcher
+	url = git@github.com:deade1e/hugo-researcher.git
