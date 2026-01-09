@@ -44,7 +44,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
     url = "/index.xml"
 
 [permalinks]
-  "/" = "/:filename"
+  "/" = "/:contentbasename"
 
 [menu]
 
