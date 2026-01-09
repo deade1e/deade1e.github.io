@@ -40,7 +40,7 @@ To do this we will use the following tools:
 ## Structure
 The following is the **directory structure** of the Ape Escape's NTSC ISO:
 
-```
+```sh
 .
 ├── DEMO
 │   ├── A_HA_D1.STR
@@ -180,7 +180,7 @@ We now need to use `aemt` to patch the `NTSC KKIIDDZZ` archive with some data fr
 
 First off run `./aemt extracted_ntsc list --decimal`. It will yield this kind of output:
 
-```
+```sh
 No.   Type  Offset     Length     Metadata  
 0     DAT   0          1                    
 1     DAT   1          17                   
@@ -218,7 +218,7 @@ This command does not modify any file but it is only used to adjust offset/lengt
 
 This is the STR portion of the output of `./aemt dump_ntsc list --decimal`:
 
-```
+```sh
 No.   Type  Offset     Length     Metadata  
 ...
 448   STR   32059      992        STR Pointer: LAB.STR
