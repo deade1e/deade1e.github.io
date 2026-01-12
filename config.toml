@@ -67,7 +67,14 @@ math = false          # enable KaTeX (https://katex.org/) globally
     name = "GitHub"
     url = "https://github.com/deade1e"
     title = "GitHub"
-
+  [[menu.main]]
+    weight = 3
+    identifier = "resume"
+    pre = ""
+    post = ""
+    name = "Resume"
+    url = "/resume"
+    title = "Resume"
 
 [markup.highlight]
   style = "hr_high_contrast"

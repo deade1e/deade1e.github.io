@@ -27,7 +27,7 @@ I also have experience as L3 security analyst and malware reverse engineer,
 where I can quickly respond to threats, perform triage and conduct subsequent
 analysis.
 
-You can find all the details on my [LinkedIn](https://linkedin.com/in/francescopompo) profile.
+You can find all the details on my [Resume](/resume).
 
 I am currently available for consulting work in security, low-level development
 and DevOps, both in Italy and remotely.
