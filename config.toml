@@ -16,7 +16,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = "/images/logo.svg"  # url or path to a logo to put in the header
   [params.footer]
-    text = "By Francesco Pompo'"
+    text = ""
     url = "https://github.com/deade1e"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
