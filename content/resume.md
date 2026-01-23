@@ -5,10 +5,10 @@ title: Resume
 
 **Lead Security Engineer**
 
-**Location:** Turin, Italy  
-**Email:** contact@francesco.cc  
-**Website:** [francesco.cc](https://francesco.cc)  
-**Github:** [github.com/deade1e](https://github.com/deade1e)
+**Location**: Turin, Italy  
+**Email**: contact@francesco.cc  
+**Website**: [francesco.cc](https://francesco.cc)  
+**Github**: [github.com/deade1e](https://github.com/deade1e)
 
 ---
 
