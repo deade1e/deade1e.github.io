@@ -11,8 +11,12 @@
 
       packages.x86_64-linux.default = self.packages.x86_64-linux.hello;
 
-      devShells.x86_64-linux.default =
-        pkgs.mkShell { nativeBuildInputs = with pkgs; [ hugo ]; };
+      devShells.x86_64-linux.default = pkgs.mkShell {
+        nativeBuildInputs = with pkgs; [ hugo ];
+        shellHook = ''
+          export SHELL="zsh"
+        '';
+      };
 
     };
 }
