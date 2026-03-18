@@ -39,6 +39,10 @@ math = false          # enable KaTeX (https://katex.org/) globally
     title = "GitHub"
     url = "https://github.com/deade1e"
   [[params.socialIcons]]
+    icon = "fab fa-x-twitter"
+    title = "X"
+    url = "https://x.com/deade1e"
+  [[params.socialIcons]]
     icon = "fa fa-rss"
     title = "RSS"
     url = "/index.xml"
