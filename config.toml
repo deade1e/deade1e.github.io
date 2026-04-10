@@ -23,8 +23,8 @@ math = false          # enable KaTeX (https://katex.org/) globally
     fontSize = "12pt"
     pageWidth = "750px"
     avatarSize = "90px"
-    colorDark = "#111"
-    colorLight = "#fff"
+    colorDark = "#fff"
+    colorLight = "#000"
     colorRed = "#dc3545"
   [[params.socialIcons]]
     icon = "fab fa-linkedin"
@@ -84,7 +84,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
     title = "Resume"
 
 [markup.highlight]
-  style = "hr_high_contrast"
+  style = "github"
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
