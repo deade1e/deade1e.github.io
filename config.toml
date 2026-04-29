@@ -2,7 +2,7 @@ title = "Francesco"
 baseURL = "https://francesco.cc"
 
 theme = "researcher"
-disableKinds = ["taxonomy", "term"]
+# disableKinds = ["term"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
 
@@ -53,35 +53,14 @@ math = false          # enable KaTeX (https://katex.org/) globally
 [menu]
 
   [[menu.main]]
-    weight = 1
-    identifier = "about"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
     name = "About"
     url = "/about"
-    # title will be shown when you hover on this menu link
-    title = "About"
   [[menu.main]]
-    weight = 2
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
     name = "Posts"
     url = "/posts/"
-    # title will be shown when you hover on this menu link
-    title = "Posts"
   [[menu.main]]
-    weight = 3
-    identifier = "resume"
-    pre = ""
-    post = ""
     name = "Resume"
     url = "/resume"
-    title = "Resume"
 
 [markup.highlight]
   style = "github"
