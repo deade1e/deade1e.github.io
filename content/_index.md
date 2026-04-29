@@ -5,36 +5,37 @@ date: 2026-01-09
 
 # Francesco Pompò
 
-Independent IT Security Researcher and Engineer focused on systems programming,
-malware analysis, and threat intelligence automation.
+**Independent IT Security Researcher and Engineer** focused on **systems programming**,
+**malware analysis**, and **threat intelligence automation**.
 
 I've been working in the private sector serving both government agencies and
 commercial clients since 2013.
 
-Usually the focus of my job throughout the years was to develop integrations to
-ease the workflow of otherwise standalone security software and sometimes to
-start security products from scratch.
+Usually the focus of my job throughout the years was to **develop
+integrations** to ease the workflow of otherwise standalone security software
+and sometimes to **start security products from scratch**.
 
-I also have experience as L3 security analyst and malware reverse engineer,
+I also have experience as L3 security analyst and **malware reverse engineer**,
 where I can quickly respond to threats, perform triage and conduct subsequent
 analysis.
 
 Since 2013, I have helped organizations design, integrate, and operate security
-capabilities—often starting from scratch—covering everything from low-level
-tooling to production-ready workflows.
+capabilities, often starting from scratch and covering everything from
+**low-level** tooling to production-ready workflows.
 
-For a complete overview of my professional background, see my [Resume](/resume).
+For a complete overview of my professional background, see my
+[Resume](/resume).
 
-I am currently available for consulting engagements in security research,
+I am currently **available for consulting** engagements in security research,
 low-level development, and DevOps, both in Italy and remotely.
 
 You can reach me at [contact@francesco.cc](mailto:contact@francesco.cc).
 
 # Expertise
-- Low-level programming (C / Rust)
+- Low-level programming (**C** / **Rust**)
 - Reverse engineering
 - Incident response
-- Nix / NixOS
+- **Nix** / NixOS
 - Containerization and infrastructure abstraction
 - Applied cryptography
 
